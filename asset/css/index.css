@@ -116,3 +116,7 @@ button span{
 .active{
   background: yellowgreen;
 }
+.active span{
+  background: #fff;
+  margin-left: 31px;
+}
